@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I am RAHUL!🙋‍♂️</h1>
 <h3 align="center">Currently persuing Mern Stack Web devlopment from Code Help dot batch👨‍💻.I am passionate about learning new things ,result driven, meeting new people and exploring new experience❤️ Flexible and willing to work in growth oriented environment.</h3>
 
-<div><img src="https://imgs.search.brave.com/vYohTOrXc0jOiFiPF1yOd6DsdbPM_gCp927Z3LD1heM/rs:fit:640:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9jZDM3/ZmE0OWM5ODNhYzkw/NWRmMDAxNmZkNWI2/YTJlZS90ZW5vci5n/aWY_aXRlbWlkPTEz/MTY1MjE2.gif" alt="coding" width="400" align="right" /></div>
+<div><img src="https://imgs.search.brave.com/vYohTOrXc0jOiFiPF1yOd6DsdbPM_gCp927Z3LD1heM/rs:fit:640:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9jZDM3/ZmE0OWM5ODNhYzkw/NWRmMDAxNmZkNWI2/YTJlZS90ZW5vci5n/aWY_aXRlbWlkPTEz/MTY1MjE2.gif" alt="coding" width="370" align="right" /></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajr4712&label=Profile%20views&color=0e75b6&style=flat" alt="rajr4712" /> </p>
 
