@@ -60,5 +60,5 @@
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajr4712&" alt="rajr4712" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajr4712&theme=tokyonight alt="rajr4712" />
 </p>
