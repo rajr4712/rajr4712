@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul-kumar-37b88ba2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-37b88ba2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-kumar-37b88ba2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-37b88ba2" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:21411813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21411813" height="30" width="40" /></a>
-<a href="https://instagram.com/it_sidharth_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_sidharth_gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/it_sidharth_gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_sidharth_gupta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rajr4712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rajr4712" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajr4712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajr4712" height="30" width="40" /></a>
 </p>
