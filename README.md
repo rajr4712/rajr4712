@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajr4712&label=Profile%20views&color=0e75b6&style=flat" alt="rajr4712" /> </p>
 
-- 🔭 I’m currently working on **Movie App website**
+- 🔭 I’m currently working on **Study Notion Mega ProjecT**
 
 - 🌱 I’m currently learning **mongoDB ,Nodejs, Expressjs 👨‍💻**
 
