@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **mongoDB ,Nodejs, Expressjs 👨‍💻**
 
-- 💬 Ask me about **Reactjs, Redux,Javascript,TailwindCss, Css, html, Python😊**
+- 💬 Ask me about **ReactJS, Redux, JavaScript, TailwindCSS, Css, html, Python , GIT & GITHUB , POSTMAN Apis😊**
 
 - 📫 How to reach me **rajr4712@gmail.com**
 
