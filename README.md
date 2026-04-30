@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I am RAHUL!🙋‍♂️</h1>
-<h3 align="center">A Frontend Developer with over 2 years of experience in building and optimizing modern web applications. Proficient in React.js, Next.js, JavaScript,TypeScript,REstAPIs, Node.js, Express.js, HTML, CSS, and Bootstrap. I have successfully developed and delivered multiple projects focused on responsive design, performance, and user experience. </h3>
+<h3 align="center">A Frontend Developer with over 2 years of experience in building and optimizing modern web applications. Proficient in React.js, Next.js, JavaScript, TypeScript, REstAPIs, Node.js, Express.js, HTML, CSS, and Bootstrap. I have successfully developed and delivered multiple projects focused on responsive design, performance, and user experience. </h3>
 
 <div><img src="https://imgs.search.brave.com/vYohTOrXc0jOiFiPF1yOd6DsdbPM_gCp927Z3LD1heM/rs:fit:640:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9jZDM3/ZmE0OWM5ODNhYzkw/NWRmMDAxNmZkNWI2/YTJlZS90ZW5vci5n/aWY_aXRlbWlkPTEz/MTY1MjE2.gif" alt="coding" width="365" align="right" /></div>
 
